@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Pages: Help Charles setup his personal website
 
 You can use the [editor on GitHub](https://github.com/wz30/wz30.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
